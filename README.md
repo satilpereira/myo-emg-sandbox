@@ -2,6 +2,10 @@
 
 An experimental platform for developing, validating, and benchmarking EMG-based human-computer interaction techniques. The repository serves as a research sandbox where new signal-processing pipelines, machine learning models, and interaction paradigms are evaluated before integration into production projects.
 
+<p align="center">
+    <img src="docs/images/setup.jpeg" width="700" alt="Experimental Setup" style="border: 1px solid #ccc;"/>
+</p>
+
 ## Problem
 
 Reliable EMG-based human-computer interaction remains challenging due to signal variability, sensor placement, muscular fatigue, electrical noise, and differences between users.
