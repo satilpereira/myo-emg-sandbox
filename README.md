@@ -147,3 +147,14 @@ Planned research includes:
 - Myo Armband research
 - EMGFlow
 - Relevant IEEE papers (papers folder)
+
+## Engineering Principles
+
+This project follows a few guiding principles:
+
+- Reproducible experiments over anecdotal improvements.
+- Modular pipelines over monolithic implementations.
+- Every experiment should be measurable.
+- Components should be reusable across projects.
+- Validation precedes optimization.
+- Done is better than perfect.
