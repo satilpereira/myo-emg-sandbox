@@ -123,10 +123,27 @@ style Feedback fill:#ececec,stroke:#888888
 Some recurring observations from ongoing experiments include:
 
 - ## Signal quality is heavily influenced by electrode placement.
+-
 - Small preprocessing changes can significantly affect classifier stability.
 - Real-time constraints favor simpler feature pipelines over computationally expensive models.
 - Consistent calibration appears more valuable than increasing model complexity.
 
 ## Future Directions
 
+Planned research includes:
+
+- Deep learning approaches for temporal EMG modeling.
+- Sensor fusion with IMUs.
+- Adaptive calibration techniques.
+- Continuous gesture recognition.
+- Online learning.
+- Hardware improvements (Battery calculations aren't promising).
+- Integration with CAMI as the validated experimental backend.
+
 ## References
+
+- LibEMG
+- Ninapro Dataset
+- Myo Armband research
+- EMGFlow
+- Relevant IEEE papers (papers folder)
